@@ -1,4 +1,4 @@
-# Plant Seedling Image Classification
+# Plant Seedlings Classification
 ## Computer Vision Project
 
 Can you differentiate a weed from a crop seedling?
